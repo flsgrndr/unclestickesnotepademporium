@@ -1,0 +1,60 @@
+#classic {
+      margin-left: 6em;
+      padding: 1em;
+      font-weight: 500;
+      text-align: justify;
+}
+
+#modern {
+      margin-left: 6em;
+      padding: 1em;
+      font-family: sans-serif;
+      font-weight: 500;
+      background-color: gold;
+      text-align: center;
+}
+
+#impact {
+      margin-left: 6em;
+      padding: 1em;
+      font-family: sans-serif;
+      font-weight: 500;
+      background-color: lightgreen;
+      border: 15px double;
+      text-align: center;
+}
+
+#elise {
+      margin-left: 6em;
+      padding: 1em;
+      font-family: 'lucida calligraphy', cursive;
+      /* font family seems to not be working for me beyond the basic cursive */
+      background-color: floralwhite;
+      border: 7px groove antiquewhite;
+      text-align: center;
+}
+
+#one, #two  {
+      display: inline-block;
+      margin: 6em 1em;
+      padding: 1em;
+      font-family: sans-serif;
+      font-weight: 600;
+      background-color: aquamarine;
+      border: 7px ridge mediumturquoise;
+      text-align: center;
+}
+
+#gaudi {
+      margin: 6em;
+      padding: 1em;
+      font-family: cursive;
+      font-weight: 500;
+      background-color: lightsalmon;
+      border-radius: 10% 40%;
+      text-align: center;
+}
+
+
+
+
